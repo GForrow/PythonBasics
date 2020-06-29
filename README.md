@@ -68,6 +68,6 @@ Tables take some extra formatting using | and ----
 moving lines around
 typing on multiple lines using middle mouse click
 
-
+making a commit
 
 
