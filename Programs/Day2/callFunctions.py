@@ -1,4 +1,4 @@
-from Day2 import Functions
+from Programs.Day2 import Functions
 
 Functions.examScore()
 
