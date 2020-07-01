@@ -13,3 +13,6 @@ print("Rest of file: " + file.read())
 print("Final blank line: " + file.readline())
 
 file.close()
+
+file = open("examplefile.txt", "r")
+file.close()
